@@ -1,0 +1,105 @@
+KARTHIK NAIDU DJ
+================
+Email:  karthiknaidu.dj@gmail.com
+Phone: 352-278-8210
+Github: https://github.com/knaidu
+
+SUMMARY
+=======
+Software engineer with strong academic background, excellent problem-solving skills, and practical experience in building large-scale real-time systems.
+
+EDUCATION
+=========
+MS in Computer Engineering, University of Florida.
+Graduation: Aug 2009
+GPA: 3.45/4.0, 
+
+BE in Computer Science, Visveswaraiah Tech University, India.
+Graduation: July 2007
+GPA: 4.0/4.0, 
+
+TECHNICAL SKILLS
+================
+Programming:     C, C++, Java, XML
+Scripting:       Javascript, Perl, Python
+Databases:       SQL Server, Oracle, MySql.
+OS/Architecture: Unix, Windows, OS X / Solaris, IBM
+
+WORK EXPERIENCE
+===============
+
+Bloomberg LP, Software Developer, Trading Systems Team [Oct 2009 - Present]
+---------------------------------------------------------------------------
+Data-distribution server (>X thousand quotes per second):-
+• Project lead for scaling this server; monitoring/fixing performance bottlenecks; 
+  responsible for expansion
+• Technologies: C++, Multi-threading, FIX Application protocol
+
+Trading Setup Screens:-
+• Designed and built core setup screens for traders; Technologies: C++, Javascript, XML, Python
+• Stats: ~50,000 hits per day, Bloomberg top 10 function, 0 major issues reported
+
+Scaled pricing infrastructure:-
+• 700 dbs migrated/sharded, services optimized for performance
+• Worked across the entire stack (UI fetch services, backend api, data distribution)
+• Early warning and auto expand mechanism for Trading Systems databases
+• Checks based on data size and machine load; run overnight, generate warnings
+
+Utility scripts, apis and email services (in my own time):-
+• Daily portfolio status email to all traders; SVN checkin impact report
+• Automatic boiler plate code generation for db access routines
+
+Added Responsibilities:-
+• Mentor to 2 full time junior employees, providing support and problem solving assistance.
+• Technical Rep, providing technical guidance on software infrastructure issues.
+• Bootcamp mentor for Bloomberg training classes for new hires.
+
+Bloomberg LP, Software Developer Intern, Application Software Team [May – Aug 2009]
+-----------------------------------------------------------------------------------
+• User analytics dashboard; scoring metrics; and recommendation for potential clients
+• Designed and implemented Bloomberg wide user tracking and recommendation system
+
+SumTotal Systems, Software Developer Intern [July 2008 – December 2008]
+-----------------------------------------------------------------------
+• Worked on enhancements for ‘Performance Management’ product, 
+• Contributed significantly to database design, and localization module development.
+• Member of Sustaining Engineering Group (size 5) for fixing high priority client issues.
+
+HP – Hewlett Packard, Software Developer Intern [Jan 2007 - July 2007]
+----------------------------------------------------------------------
+• Spearheaded the development of Transport Scheduling System, 
+• Successfully formulated optimal and cost effective routes for intra-city shuttles, 
+  in one of India’s most congested cities – Bangalore.
+• Simulated Global Positioning System, to deliver real-time shuttle tracking and arrival information.
+
+ICRIS.net, Co-founder, Database Team Lead [May 2004 – Dec 2006]
+------------------------------------------------------------------
+• Started this company as a part-time consulting business with friends to consult on small projects, 
+• Lead the backend team, worked on database design and designed UX framework.
+
+University of Florida, Web Developer [Jan 2008 – July 2008]
+------------------------------------------------------
+• At the Web Implementation Center, I have done full product development cycle -
+  gathering requirements, design, development and maintenance
+
+Globals Inc., Junior web developer [Jan 2000 – Dec 2002]
+---------------------------------------------------
+• Early employee; junior web developer at the age of 14; pitch to clients and investors.
+
+Side/Course Projects
+-------------------------------
+• Jammmin: Music jamming and collaboration app with social integration, 
+  Role: Design - Product guy - Marketing; 
+• Woodpecker: Social community for Craftsman with showcase, friend notification system,
+  (JSP, HTML/CSS, Mysql, Java)
+• OpenAuction: A trading auction app, 
+  (Java, multi-threading, concurrent programming)
+• BitShare: A bit torrent file sharing app, optimized for performance with choking mechanism 
+  (Java/Swing application)
+• SpamFilter - A production ready spam filter system, which meets real world accuracy metrics.
+  (Java, Swing application)
+
+Awards
+-----------
+• ‘Graduate Student Achievement Award’ at University of Florida
+• Distinction Honors during Bachelors Degree.
