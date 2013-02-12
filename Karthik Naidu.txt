@@ -6,7 +6,19 @@ Github: https://github.com/knaidu
 
 SUMMARY
 =======
-Software engineer with strong academic background, excellent problem-solving skills, and practical experience in building large-scale real-time systems.
+- 3+ years of experience as a Software Engineer, Project Lead and Mentor.
+
+- Extensive hands on experience in C/C++, STL, Java, Object-Oriented Software Architecture and Multithreaded Programming.
+
+- Built large scale, high performance, distributed applications encompassing full software development life cycle.
+
+- Hands on experience scaling Trading System infrastructure, Database Sharding, and performance optimization across the entire stack.
+
+- Mentor to 2 junior employees, Technical Rep - providing technical guidance and giving technical design talks.
+
+- Play an active role in recruiting and leading hiring efforts for Florida region.
+
+- Consistently rated "Exceptional" Performer in R&D Dept., all 3 years at Bloomberg.
 
 EDUCATION
 =========
@@ -20,10 +32,10 @@ GPA: 4.0/4.0, 
 
 TECHNICAL SKILLS
 ================
-Programming:     C, C++, Java, XML
+Programming:     C, C++, Java, C#, XML
 Scripting:       Javascript, Perl, Python
 Databases:       SQL Server, Oracle, MySql.
-OS/Architecture: Unix, Windows, OS X / Solaris, IBM
+OS/Architecture: Windows, Unix, OS X / Solaris, IBM
 
 WORK EXPERIENCE
 ===============
@@ -45,14 +57,9 @@ Scaled pricing infrastructure:-
 • Early warning and auto expand mechanism for Trading Systems databases
 • Checks based on data size and machine load; run overnight, generate warnings
 
-Utility scripts, apis and email services (in my own time):-
+Utility scripts, apis, email services and hacks (in my own time):-
 • Daily portfolio status email to all traders; SVN checkin impact report
 • Automatic boiler plate code generation for db access routines
-
-Added Responsibilities:-
-• Mentor to 2 full time junior employees, providing support and problem solving assistance.
-• Technical Rep, providing technical guidance on software infrastructure issues.
-• Bootcamp mentor for Bloomberg training classes for new hires.
 
 Bloomberg LP, Software Developer Intern, Application Software Team [May – Aug 2009]
 -----------------------------------------------------------------------------------
@@ -101,5 +108,5 @@ Side/Course Projects
 
 Awards
 -----------
-• ‘Graduate Student Achievement Award’ at University of Florida
+• ‘Graduate Student Achievement Award’ at University of Florida.
 • Distinction Honors during Bachelors Degree.
